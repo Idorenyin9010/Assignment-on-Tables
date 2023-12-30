@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+caption{
+    font-weight: 900;
+    font-size: large;
+    font-family: Georgia;
+    text-align: center;
+}
+thead{
+text-align: center;
+}
+tbody{
+    text-align: center;
+}
